@@ -12,6 +12,8 @@ The dataset is available in a CSV file named `Shah Jo Risalo labeled.csv` and in
 - **dastan_verse_number**: The verse number within the specific Dastan.
 - **poetry_text (بيت)**: The actual Sindhi verse or line of poetry.
 - **explanation (وضاحت)**: The Sindhi-language explanation or interpretation of the verse, primarily by Dr. Nabi Bakhsh Baloch.
+- **keywords**: Keywords relevant for search algorithms.
+
 - **compiler_name**: Name(s) of the compiler(s). Notable contributors include:
   - Allama I. I. Qazi
   - Banhoo Khan Shaikh
@@ -27,8 +29,6 @@ The dataset is available in a CSV file named `Shah Jo Risalo labeled.csv` and in
   - Dr. Nabi Bux Baloch (1165–1207 Hijri)
   - Dr. Nabi Bux Baloch (1269 Hijri and 1270 Hijri)
   - Dr. Nabi Bux Baloch (British Museum)
-
-- **keywords**: Keywords relevant for search algorithms.
 
 ## Key Highlights:
 - **Total Poetries**: 43,779 poetic verses.
