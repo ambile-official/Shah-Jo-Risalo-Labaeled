@@ -23,6 +23,23 @@ This dataset offers profound insights into the **philosophical**, **spiritual**,
 - **keywords**: Search-optimized terms
 - **compiler_name**:Name of the compiler of various versions of Shah Jo Risalo.**
 
+   **Compilers**:
+
+  * Allama I. I. Qazi
+  * Banhoo Khan Shaikh
+  * Dr. Nabi Bux 28 Surs Explanation
+  * Dr. Ernest Trumpp
+  * GM Shahwani
+  * Gurbakh Shani
+  * Mirza Qaleech Baig
+  * Tara Chand Shokeeram
+  * Usman Ali Ansari
+  * Usman Diplai
+  * Adwani Kaliyan
+  * Dr. Nabi Bux Baloch (1165–1207 Hijri)
+  * Dr. Nabi Bux Baloch (1269 Hijri and 1270 Hijri)
+  * Dr. Nabi Bux Baloch (British Museum)
+  
 ## Applications:
 - Natural Language Processing (NLP) research in Sindhi
 - AI-based Sindhi chatbots and conversational agents
