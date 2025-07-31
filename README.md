@@ -44,7 +44,7 @@ This dataset offers profound insights into the **philosophical**, **spiritual**,
 This dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 License**. It is intended for educational and research purposes only.
 
 ## Acknowledgments:
-Special thanks to the AMBILE team for their involvement in data compilation and cleaning.
+Special thanks to the [**AMBILE team**](https://bhittaipedia.org/p/bhittai-pedia-team) for their involvement in data compilation and cleaning.
 
 
 ## Contact:
