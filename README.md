@@ -45,9 +45,11 @@ This dataset offers profound insights into the **philosophical**, **spiritual**,
 - AI-based Sindhi chatbots and conversational agents
 - Development of educational tools for literature learning
 - Text-to-Speech (TTS) system training
-- Verse classification and sentiment analysis tasks
+- Verse classification and sentiment analysis projects
 - Digital preservation and promotion of Sindhi literary heritage
 
+## Data Source
+The dataset is sourced from the [AMBILE Bhittaipedia project](https://bhittaipedia.org/).
 
 ## How to Use:
 1. **Clone the repository or download the CSV file**.
