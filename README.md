@@ -15,13 +15,13 @@ This dataset offers profound insights into the **philosophical**, **spiritual**,
 - **File Format**: CSV file titled `Shah Jo Risalo labeled.csv`
 
 ## CSV Structure:
-- **sur (سر)**: Name of the Sur
-- **dastan (داستان)**: Subsection within the Sur
-- **dastan_verse_number**: Verse number within the dastan
+- **melody (سر)**: Name of the Sur
+- **chapter (داستان)**: Subsection within the Sur
+- **chapter_verse_number**: Verse number within the dastan
 - **poetry_text (بيت)**: Original Sindhi poetic verse
 - **explanation (وضاحت)**: Sindhi interpretation of the verse
 - **keywords**: Search-optimized terms
-- **compiler_name**: Includes contributions from scholars like **Allama I. I. Qazi**, **Dr. Nabi Bakhsh Baloch**, and others
+- **compiler_name**:Name of the compiler of various versions of Shah Jo Risalo.**
 
 ## Applications:
 - Natural Language Processing (NLP) research in Sindhi
