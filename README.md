@@ -44,7 +44,8 @@ This dataset offers profound insights into the **philosophical**, **spiritual**,
 This dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 License**. It is intended for educational and research purposes only.
 
 ## Acknowledgments:
-Special thanks to the AMBILE team for their efforts in **data curation**, **cleaning**, and **formatting**, and to all the scholars and compilers who contributed to preserving the legacy of Shah Abdul Latif Bhittai.
+Special thanks to the AMBILE team for their involvement in data compilation and cleaning.
+
 
 ## Contact:
 For any queries, collaboration opportunities, or contributions, please contact:
