@@ -68,4 +68,4 @@ Special thanks to the [**AMBILE team**](https://bhittaipedia.org/p/bhittai-pedia
 
 ## Contact:
 For any queries, collaboration opportunities, or contributions, please contact:
-- **Email**: [datasets@sindh.ai(mailto:datasets@sindh.ai)]
+- **Email**: [datasets@sindh.ai](mailto:datasets@sindh.ai)
